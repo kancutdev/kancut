@@ -1,0 +1,125 @@
+{
+  "Ads": [
+  {
+   "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.aliendroid.alienguide"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Info Sertifikat Vaksin",
+      "image": "file:///android_asset/image/img1.jpg",
+      "description": "Informasi Mengenai Sertifikat Vaksin",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Cek Sertifikat Via Link SMS",
+      "image": "file:///android_asset/image/img3.jpg",
+      "description": "Cara Cek melalui link SMS",
+      "link": "file:///android_asset/guide/guide_2.html"  
+    },
+    {
+      "id": 3,
+      "name_category": "Medium",
+      "title": "Cek Sertifikat Via Aplikasi pedulilindungi",
+      "image": "file:///android_asset/image/img2.jpg",
+      "description": "Cara Cek melalui aplikasi pedulilindungi",
+      "link": "file:///android_asset/guide/guide_3.html"  
+	},
+	{
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Cek Sertifikat Via Web pedulilindungi.id",
+      "image": "file:///android_asset/image/img4.jpg",
+      "description": "Cara cek sertifikat melalui web",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Easy",
+      "title": "Data Tambahan Penting",
+      "image": "file:///android_asset/image/img5.jpg",
+      "description": "Data tambahan penting dibaca",
+      "link": "file:///android_asset/guide/guide_5.html"  
+    },
+    {
+      "id": 6,
+      "name_category": "Medium",
+      "title": "Melihat riwayat dan tiket vaksin",
+      "image": "file:///android_asset/image/img6.jpg",
+      "description": "Cara melihat riwayat dan tiket vaksin",
+      "link": "file:///android_asset/guide/guide_6.html"  
+	},
+	{
+      "id": 7,
+      "name_category": "Medium",
+      "title": "Mendownload sertifikat vaksin",
+      "image": "file:///android_asset/image/img7.jpg",
+      "description": "Cara mendownload sertifikat vaksin",
+      "link": "file:///android_asset/guide/guide_7.html"  
+	}
+  ]
+}
