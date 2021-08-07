@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-   "select_ads": "FACEBOOK",
+   "select_ads": "APPLOVIN",
     "select_backup_ads": "",
     "backup_mode": "0",
     "status_app": "0",
@@ -9,15 +9,15 @@
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/3419835294",
-    "interval_intertitial": 5,
+    "interval_intertitial": 3,
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner_native": "YOUR_PLACEMENT_ID",
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "db4d5e8718b97d78",
-    "applovin_inter": "518cd97722c60b52",
+    "applovin_banner": "142a2c58a8dcfb4f",
+    "applovin_inter": "cf30bd5b47a8f5b1",
     "packagename": "com.cara.ceksertifikatvaksin"
   }
 ],
