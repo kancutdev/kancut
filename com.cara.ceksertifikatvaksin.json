@@ -2,7 +2,7 @@
   "Ads": [
   {
    "select_ads": "ADMOB",
-    "select_backup_ads": "STARTAPP",
+    "select_backup_ads": "APPLOVIN",
     "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
@@ -16,8 +16,8 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "142a2c58a8dcfb4f",
-    "applovin_inter": "cf30bd5b47a8f5b1",
+    "applovin_banner": "e756b896bdc469df",
+    "applovin_inter": "9a1568552b582fa2",
     "packagename": "com.cara.ceksertifikatvaksin"
   }
 ],
