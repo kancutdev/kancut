@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -26,9 +26,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
-"PENGATURAN_IKLAN_INTER" : "TAPDAQ",
-"PENGATURAN_IKLAN_NATIVE" : "TAPDAQ",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "APPLOVIN",
+"PENGATURAN_IKLAN_NATIVE" : "STARTAPP",
 
 "INTER_COUNT" : "20",
 
@@ -63,8 +63,8 @@
 "UNITY_INTERSTITIAL" : "Inter",
 "UNITY_GAME_ID" : "4477059",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "a5c6c13232681085",
+"APPLOVIN_INTERSTITIAL_ID" : "dc23ba6ef3e6c9c7",
 
 "TAPDAQ_APP_ID" : "6191f5c908fe6c2d735d7363",
 "TAPDAQ_CLIENT_KEY" : "ab65b095-2580-47db-811c-23e6ef770f56",
